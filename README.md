@@ -1,7 +1,5 @@
 # Hello World Monorepo
 
-Welcome to the Hello World Monorepo, a project that combines a React frontend and an Express.js backend into a single repository for ease of development and deployment.
-
 ## Introduction
 
 This monorepo is structured to include both client-side and server-side applications, utilizing `concurrently` for simultaneous development workflows. The React application resides in `app/client`, and the Express.js server is located in `app/server`.
